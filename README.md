@@ -8,6 +8,7 @@ Now I'm playing around with AI/ML and want to design my own swarm intelligence f
 projects with similar interests. My strong areas are logical thinking, creativity and math. I could use help with modern programming, 
 best practises, UI/web Design, frameworks etc.
 
-Regards,
+
 Mika Müller
+
 Helsinki, Finland
